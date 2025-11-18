@@ -31,5 +31,6 @@
   "editor.formatOnPaste": true,
   "tailwindCSS.includeLanguages": {
     "plaintext": "javascript"
-  }
+  },
+  "cSpell.words": ["APPCREDZ"]
 }
